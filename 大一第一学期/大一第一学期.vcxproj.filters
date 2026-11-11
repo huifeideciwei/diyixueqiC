@@ -51,5 +51,14 @@
     <ClCompile Include="11.5.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="11.11作业1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11.11作业2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11.11作业3.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -149,6 +149,9 @@
     <ClCompile Include="10.29.3.c" />
     <ClCompile Include="10.29.4.c" />
     <ClCompile Include="10.8.c" />
+    <ClCompile Include="11.11作业1.c" />
+    <ClCompile Include="11.11作业2.c" />
+    <ClCompile Include="11.11作业3.c" />
     <ClCompile Include="11.4.c" />
     <ClCompile Include="11.5.c" />
   </ItemGroup>
