@@ -152,6 +152,7 @@
     <ClCompile Include="11.11作业1.c" />
     <ClCompile Include="11.11作业2.c" />
     <ClCompile Include="11.11作业3.c" />
+    <ClCompile Include="11.12.c" />
     <ClCompile Include="11.4.c" />
     <ClCompile Include="11.5.c" />
   </ItemGroup>
