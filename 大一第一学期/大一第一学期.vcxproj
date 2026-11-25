@@ -160,6 +160,7 @@
     <ClCompile Include="11.19.c" />
     <ClCompile Include="11.22.1.c" />
     <ClCompile Include="11.22.2.c" />
+    <ClCompile Include="11.25.c" />
     <ClCompile Include="11.4.c" />
     <ClCompile Include="11.5.c" />
     <ClCompile Include="11.18.2.c" />
